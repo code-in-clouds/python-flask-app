@@ -1,8 +1,8 @@
 #calculate sum of two numbers 
-a=10
-b=20
+num1=10
+num2=20
  
-sum=$a + $b
+sum=`expr $num1 + $num2`
  
 echo "Sum is: $sum"
 return $sum
