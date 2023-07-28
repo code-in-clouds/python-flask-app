@@ -1,6 +1,6 @@
 #calculate sum of two numbers 
 num1=90
-num2=20
+num2=30
  
 sum=`expr $num1 + $num2`
  
